@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(20, 20, 20);
+ }
+ 
+ h1{
+     text-align: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: #fd0000;
+ }
+ .container{
+     text-align: center;
+ }
+ .content{
+     text-align: center;
+ }
+ .PODE{
+position: absolute;
+ }
+ .midias{
+    color: #fd0000;
+    text-align: center;
+ }
